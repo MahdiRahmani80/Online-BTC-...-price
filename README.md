@@ -5,5 +5,5 @@ In Iran
 ## Usage: 
 ```
  git clone https://github.com/MahdiRahmani80/Online-BTC-...-price.git
- python3 *.py
+ python3 api_WebScarping.py
 ```
